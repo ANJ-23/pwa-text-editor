@@ -14,7 +14,7 @@ Within the command line, type "npm i" to install the app's dependencies.
 
 ## Usage
 
-Open the website (<>), then type in any text.
+Open the website (<https://evening-spire-63501.herokuapp.com/>), then type in any text.
 
 Also, the user can press the "Install" button to install the webpage locally.
 
