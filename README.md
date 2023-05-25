@@ -8,9 +8,7 @@ This app is largely comprised of webpacks, service workers, and caching.
 
 ## Installation
 
-If Node.js is not already installed in your system, you can get it at <https://nodejs.org>. Once installed, download the files in the repository. The files can then be accessed/opened in a command line window (either Command Prompt, Terminal, or Git Bash depending on what your system & what you have installed).
-
-Within the command line, type "npm i" to install the app's dependencies.
+N/A
 
 ## Usage
 
